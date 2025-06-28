@@ -22,6 +22,28 @@
 
 ---
 
+## 🚀 Hackathon Submission Updates
+
+### ✅ One-Shot Prompt Challenge Submission
+
+This project was submitted as part of the Bolt.new "One-Shot Prompt" challenge in the World's Largest Hackathon.
+
+**Official One-Shot Prompt Used**:
+> Create a simple, clean web app called "EcoPrint AI" that helps users estimate the carbon footprint of using AI models like GPT, Claude, or Gemini. The app should:
+> - Allow users to select the AI model they’re using (GPT-4, Claude 3, Gemini, etc.)
+> - Let users input the number of tokens used (manually for now)
+> - Display the estimated CO₂ emissions in grams or kgCO₂e based on their input
+> - Use a minimalist, dark-themed UI with eco-friendly design elements (e.g., leaf icons, green accent colors)
+> - Show a simple explainer or tooltip on how AI emissions are calculated
+> - Include an input selector for region or electricity grid (optional for now)
+> - Display results instantly after input using a friendly visual (like a gauge or progress bar)
+> - Label the result section: “Your AI Carbon Footprint” and include a reset button.
+> - Include a short footer with links for "About", "GitHub", and "Join the Movement".
+
+🔗 **Official Bolt.new Project Link**: [https://bolt.new/~/sb1-ygh8hpjg](https://bolt.new/~/sb1-ygh8hpjg)
+
+---
+
 ## 📁 Folder Structure (Exported)
 
 - `/assets`: Images, styling, logos (if any)
